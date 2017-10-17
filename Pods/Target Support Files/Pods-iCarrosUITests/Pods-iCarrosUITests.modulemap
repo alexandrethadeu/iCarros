@@ -1,0 +1,6 @@
+framework module Pods_iCarrosUITests {
+  umbrella header "Pods-iCarrosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

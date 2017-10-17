@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailsViewController.update():DetailsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shareData[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UIViewController.downloadFileSync(_:):Utils.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:cellForRowAt:):TableExtension.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " car[&quot;image&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:numberOfRowsInSection:):TableExtension.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableRegister():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableHeight.constant">
+            </PersistentString>
+            <PersistentString
+               value = "deals.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
